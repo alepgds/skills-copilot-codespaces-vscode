@@ -1,6 +1,6 @@
 function skillsMember(){
     return {
-     restritc: 'E',
+     restrict: 'E',
      templateUri: 'modules/skills/views/members.html',
      controller: 'SkillMemberControler',
      controllerAs: 'vm',
